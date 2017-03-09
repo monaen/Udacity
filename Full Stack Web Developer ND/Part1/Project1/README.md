@@ -1,5 +1,6 @@
 ## Movie Trailer
 ![movie_trailer](https://monaen.github.io/Udacity/Full%20Stack%20Web%20Developer%20ND/Part1/Project1/movie_trailer.PNG)
+
 A website stores favorite movies, including box art imagery and a movie trailer URL. Visitors can review the movies and watch the trailers.
 
 ## Requests
