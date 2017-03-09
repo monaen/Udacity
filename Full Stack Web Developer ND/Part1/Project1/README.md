@@ -15,10 +15,9 @@ Clone the whole project folder from github directly.
 git clone https://github.com/monaen/Udacity.git
 git checkout origin/gh-pages -b gh-pages
 cd Full\ Stack\ Web\ Developer\ ND/Part1/Project1/
-python entertainment_center.py
 ```
 
-After installation, make sure to run
+After `cd` to the project folder, make sure to run
 ```
 $ python entertainment_center.py
 ```
