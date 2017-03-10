@@ -61,7 +61,7 @@
         // Start playing the video whenever the trailer modal is opened
         $(document).on('click', '.movie-tile', function (event) {
             var trailerYouTubeId = $(this).attr('data-trailer-youtube-id')
-            var sourceUrl = 'https://www.youtube.com/embed/' + trailerYouTubeId + '?autoplay=1&html5=1';
+            var sourceUrl = 'http://www.youtube.com/embed/' + trailerYouTubeId + '?autoplay=1&html5=1';
             $("#trailer-video-container").empty().append($("<iframe></iframe>", {
               'id': 'trailer-video',
               'type': 'text-html',
@@ -84,7 +84,7 @@
       <div class="modal-dialog">
         <div class="modal-content">
           <a href="#" class="hanging-close" data-dismiss="modal" aria-hidden="true">
-            <img src="http://lh5.ggpht.com/v4-628SilF0HtHuHdu5EzxD7WRqOrrTIDi_MhEG6_qkNtUK5Wg7KPkofp_VJoF7RS2LhxwEFCO1ICHZlc-o_=s0#w=24&h=24"/>
+            <img src="https://lh5.ggpht.com/v4-628SilF0HtHuHdu5EzxD7WRqOrrTIDi_MhEG6_qkNtUK5Wg7KPkofp_VJoF7RS2LhxwEFCO1ICHZlc-o_=s0#w=24&h=24"/>
           </a>
           <div class="scale-media" id="trailer-video-container">
           </div>
@@ -105,11 +105,7 @@
     <div class="container">
       
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="jbtmW3ydOkU" data-toggle="modal" data-target="#trailer">
-<<<<<<< HEAD
     <img src="https://s-media-cache-ak0.pinimg.com/originals/5e/87/ba/5e87baf2dee6a4edd4cca0de65f9e1fd.jpg" width="220" height="342">
-=======
-    <img src="https://cdn1-www.comingsoon.net/assets/uploads/gallery/resident-evil-the-final-chapter/last-resident-evil-poster.jpg" width="220" height="342">
->>>>>>> origin/gh-pages
     <h2>Resident Evil 7</h2>
 </div>
 
@@ -149,7 +145,7 @@
 </div>
 
 <div class="col-md-6 col-lg-4 movie-tile text-center" data-trailer-youtube-id="GlQu03jNhk0" data-toggle="modal" data-target="#trailer">
-    <img src="https://pre01.deviantart.net/7b3e/th/pre/i/2015/223/0/0/agents_of_shield_season_3_poster_by_malshania-d957z36.jpg" width="220" height="342">
+    <img src="http://pre01.deviantart.net/7b3e/th/pre/i/2015/223/0/0/agents_of_shield_season_3_poster_by_malshania-d957z36.jpg" width="220" height="342">
     <h2>Shield</h2>
 </div>
 
