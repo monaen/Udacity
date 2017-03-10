@@ -12,31 +12,31 @@ inception = media.Movie(movie_title = "Inception", movie_duration = 30,
 # School of Rock movie instance
 school_of_rock = media.Movie(movie_title = "School of Rock", movie_duration = 30,
 							 movie_storyline = "Using rock music to learn",
-							 poster_image = "http://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
+							 poster_image = "https://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
 							 trailer_youtube = "https://www.youtube.com/watch?v=3PsUJFEBC74")
 
 # Ratatouille movie instance
 ratatouille = media.Movie(movie_title = "Ratatouille", movie_duration = 30,
 						  movie_storyline = "A rat is a chef in Pairs",
-						  poster_image = "http://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
+						  poster_image = "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
 						  trailer_youtube = "https://www.youtube.com/watch?v=c3sBBRxDAqk")
 
 # Midnight in Paris movie instance
 midnight_in_paris = media.Movie(movie_title = "Midnight in Paris", movie_duration = 30,
 								movie_storyline = "Going back in time to meet authors",
-								poster_image = "http://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
+								poster_image = "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
 								trailer_youtube = "https://www.youtube.com/watch?v=BYRWfS2s2v4")
 
 # Hunger Games in Paris movie instance
 hunger_games = media.Movie(movie_title = "Hunger Games", movie_duration = 30,
 						   movie_storyline = "A really real reality show",
-						   poster_image = "http://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
+						   poster_image = "https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
 						   trailer_youtube = "https://www.youtube.com/watch?v=PbA63a7H0bo")
 
 # Resident Evil in Paris movie instance
 resident_evil = media.Movie(movie_title = "Resident Evil 7", movie_duration = 30,
 							movie_storyline = "A survival horror movie",
-							poster_image = "http://cdn1-www.comingsoon.net/assets/uploads/gallery/resident-evil-the-final-chapter/last-resident-evil-poster.jpg",
+							poster_image = "https://s-media-cache-ak0.pinimg.com/originals/5e/87/ba/5e87baf2dee6a4edd4cca0de65f9e1fd.jpg",
 							trailer_youtube = "https://www.youtube.com/watch?v=jbtmW3ydOkU")
 
 # Suicide Squad in Paris movie instance
